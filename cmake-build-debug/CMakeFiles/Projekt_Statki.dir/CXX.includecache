@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/projektyC/Projekt_Statki/Czesc_grywalna/Gracz.h
+vector
+-
+string
+-
+iostream
+-
+cstdlib
+-
+utility
+-
+fstream
+-
+sstream
+-
+random
+-
+
+D:/projektyC/Projekt_Statki/Czesc_grywalna/Walka.cpp
+Walka.h
+D:/projektyC/Projekt_Statki/Czesc_grywalna/Walka.h
+
+D:/projektyC/Projekt_Statki/Czesc_grywalna/Walka.h
+sstream
+-
+fstream
+-
+string
+-
+cstdlib
+-
+Gracz.h
+D:/projektyC/Projekt_Statki/Czesc_grywalna/Gracz.h
+

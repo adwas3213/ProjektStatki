@@ -1,0 +1,12 @@
+Adam2 4 1
+Adam2 5 1
+Adam2 3 3
+Dawid2 5 5
+Dawid2 3 3
+Adam2 3 5
+Adam2 4 5
+Adam2 5 5
+Adam2 2 2
+Dawid2 1 2
+Adam2 3 3
+Adam2 4 7
